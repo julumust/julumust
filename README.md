@@ -2,11 +2,11 @@
 
 ```bash
 $ whoami
-your-username
+vinicius-dias
 $ pwd
-/home/your-username
-$ echo "Hi, I’m a dev 👋"
-Hi, I’m a dev 👋
+/home/vinicius-dias
+$ echo "Hi, I'm an aspiring developer 👋"
+Hi, I’m an aspiring developer 👋
 ```
 
 <p align="center">
