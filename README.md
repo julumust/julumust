@@ -1,6 +1,6 @@
 # Hi, I'm Vinicius
 
-[](terminal.gif)
+![About me](terminal.gif)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
