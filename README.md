@@ -1,13 +1,6 @@
 # Hi, I'm Vinicius
 
-```bash
-$ whoami
-vinicius-dias
-$ pwd
-/home/vinicius-dias
-$ echo "Hi, I'm an aspiring developer 👋"
-Hi, I’m an aspiring developer 👋
-```
+[](terminal.gif)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
