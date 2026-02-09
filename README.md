@@ -21,18 +21,18 @@
 ### Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
-![Keras](https://img.shields.io/badge/Keras-black?=logo=keras)
+![Keras](https://img.shields.io/badge/Keras-black?logo=keras)
 
 ### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?logo=ubuntu)
 ![Fedora](https://img.shields.io/badge/Fedora-black?logo=fedora)
 ![macOS](https://img.shields.io/badge/macOS-black?logo=macos)
-![Qubes](https://img.shields.io/badge/macOS-black?logo=qubesos)
+![Qubes](https://img.shields.io/badge/Qubes-black?logo=qubesos)
 
 ## 🚀 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darkcyan)](https://www.linkedin.com/in/viniciusdiass/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/julumust)
-[![Outlook](https://img.shields.io/badge/Outlook--black)](mailto:vinicius_dias0@outlook.com)
+[![Outlook](https://img.shields.io/badge/Outlook-darkblue)](mailto:vinicius_dias0@outlook.com)
 
 
 
