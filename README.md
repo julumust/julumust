@@ -31,8 +31,8 @@
 
 ## 🚀 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darkcyan)](https://www.linkedin.com/in/viniciusdiass/)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=github)](https://github.com/julumust)
-[![Outlook](https://img.shields.io/badge/Outlook--black?logo=microsoft-outlook&logoColor=white)](mailto:vinicius_dias0@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/julumust)
+[![Outlook](https://img.shields.io/badge/Outlook--black)](mailto:vinicius_dias0@outlook.com)
 
 
 
