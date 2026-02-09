@@ -30,9 +30,9 @@
 ![Qubes](https://img.shields.io/badge/macOS-black?logo=qubesos)
 
 ## 🚀 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusdiass/)
-[![GitHub](https://img.shields.io/badge/GitHub--black?logo=github&logoColor=white)](https://github.com/julumust)
-[![Outlook](https://img.shields.io/badge/Email-vinicius_dias0%40outlook.com-black?logo=microsoft-outlook&logoColor=white)](mailto:vinicius_dias0@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-darkcyan)](https://www.linkedin.com/in/viniciusdiass/)
+[![GitHub](https://img.shields.io/badge/GitHub--black?logo=github)](https://github.com/julumust)
+[![Outlook](https://img.shields.io/badge/Outlook--black?logo=microsoft-outlook&logoColor=white)](mailto:vinicius_dias0@outlook.com)
 
 
 
