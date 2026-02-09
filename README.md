@@ -1,4 +1,4 @@
-##  Hello, I'm Vini! 
+##  Hello, I'm Vinicius! 👋
 
 ![About me](terminal.gif)
 
