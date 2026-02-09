@@ -2,7 +2,7 @@
 
 ![About me](terminal.gif)
 
-## 🧰 Dev Arsenal
+## 🔧 Development Tools & Platforms
 
 ### Technologies
 ![Git](https://img.shields.io/badge/Git-black?logo=git)
@@ -23,11 +23,27 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-black?logo=pytorch)
 ![Keras](https://img.shields.io/badge/Keras-black?=logo=keras)
 
-### Operating Systems
+### Operating Systems
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-black?logo=ubuntu)
 ![Fedora](https://img.shields.io/badge/Fedora-black?logo=fedora)
 ![macOS](https://img.shields.io/badge/macOS-black?logo=macos)
 ![Qubes](https://img.shields.io/badge/macOS-black?logo=qubesos)
+
+<h2 align="center">📨 Get in Touch</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciusdiass/">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/julumust">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:vinicius_dias0@outlook.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282019–present%29.svg" alt="Outlook" width="40"/>
+  </a>
+</p>
 
 
 
