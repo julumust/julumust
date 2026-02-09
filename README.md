@@ -29,21 +29,10 @@
 ![macOS](https://img.shields.io/badge/macOS-black?logo=macos)
 ![Qubes](https://img.shields.io/badge/macOS-black?logo=qubesos)
 
-<h2 align="center">📨 Get in Touch</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/viniciusdiass/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/julumust">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:vinicius_dias0@outlook.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Office_Outlook_%282019–present%29.svg" alt="Outlook" width="40"/>
-  </a>
-</p>
+## ✉️ Get in Touch!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ViniciusDiass-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusdiass/)
+[![GitHub](https://img.shields.io/badge/GitHub-julumust-black?logo=github&logoColor=white)](https://github.com/julumust)
+[![Outlook](https://img.shields.io/badge/Email-vinicius_dias0%40outlook.com-blue?logo=microsoft-outlook&logoColor=white)](mailto:vinicius_dias0@outlook.com)
 
 
 
